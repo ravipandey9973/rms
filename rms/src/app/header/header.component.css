@@ -1,0 +1,26 @@
+.contents{
+    
+    color:black;
+    margin-left:80px;
+   
+
+}
+.navbar-toggler-icon
+{
+    background-color: black;
+    width:40px;
+    height:40px;
+    margin-left:25px;
+}
+img{
+    height:30px;
+    width:30px;
+   margin-left:800px;
+
+
+}
+nav{
+    display: inline-block;
+    width:1400px;
+    
+}

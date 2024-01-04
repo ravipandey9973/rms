@@ -1,0 +1,50 @@
+{
+    "studentData":[  
+  {  
+      
+    "name": "Jack",  
+    "logindate": "jack@gmail.com",  
+    "phonenumber": "male", 
+    "loggedfrom" :"dasd",
+     "status":"gbdfg",
+     "option":"Details",
+     "details":"details"
+     
+  },  
+  {  
+    "name": "Jack",  
+    "logindate": "jack@gmail.com",  
+    "phonenumber": "male", 
+    "loggedfrom" :"dasd",
+     "status":"gbdfg",
+     "option":"Details", 
+     "details":"details" 
+  },  
+  {  
+    "name": "Jack",  
+    "logindate": "jack@gmail.com",  
+    "phonenumber": "male", 
+    "loggedfrom" :"dasd",
+     "status":"gbdfg",
+     "option":"Details", 
+     "details":"details" 
+  },  
+  {  
+    "name": "Jack",  
+    "logindate": "jack@gmail.com",  
+    "phonenumber": "male", 
+    "loggedfrom" :"dasd",
+     "status":"gbdfg",
+     "option":"Details",
+     "details":"details"   
+  },  
+  {  
+    "name": "Jack",  
+    "logindate": "jack@gmail.com",  
+    "phonenumber": "male", 
+    "loggedfrom" :"dasd",
+     "status":"gbdfg",
+     "option":"Details",
+     "details":"details"  
+  }  
+]  }
